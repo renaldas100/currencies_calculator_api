@@ -3,7 +3,7 @@
 Naudotos technologojos REACT + BOOTSTRAP
 
 Pasinaudojant frankfurter.app API sukurtas valiutų keitimo puslapis. Padaryta, kad vartotojas galėtų pasirinkti valiutą iš kurios į kurią nori gauti valiutos kursą.
-1. Paimtos visos galimos valiutas iš API.
+1. Paimtos visos galimos valiutos iš API.
 2. Atvaizduotas  pasirinkimas valiutų iš ir į kurią keičiama ir atvaizduojamas valiutų kursas.
 
 Dokumentacija
