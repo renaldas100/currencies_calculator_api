@@ -1,4 +1,4 @@
-# Currencies calculator api
+# Currencies calculator API
 
 Naudotos technologojos REACT + BOOTSTRAP
 
