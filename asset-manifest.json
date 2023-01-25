@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/currencies_calculator_api/static/css/main.aba46e82.css",
+    "main.js": "/currencies_calculator_api/static/js/main.410ca885.js",
+    "static/js/787.c751e1c1.chunk.js": "/currencies_calculator_api/static/js/787.c751e1c1.chunk.js",
+    "static/media/logo.svg": "/currencies_calculator_api/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/currencies_calculator_api/index.html",
+    "main.aba46e82.css.map": "/currencies_calculator_api/static/css/main.aba46e82.css.map",
+    "main.410ca885.js.map": "/currencies_calculator_api/static/js/main.410ca885.js.map",
+    "787.c751e1c1.chunk.js.map": "/currencies_calculator_api/static/js/787.c751e1c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba46e82.css",
+    "static/js/main.410ca885.js"
+  ]
+}
